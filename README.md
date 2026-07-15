@@ -23,6 +23,28 @@ I'm an enthusiastic **Full-Stack Developer** with a strong foundation in fronten
 - 💼 Open to **Junior Full Stack Developer** & **Backend Engineer** roles
 - 🌱 Learning: Docker, AWS, Go, Microservices & DSA
 
+---
+
+# ❤️ Interests
+
+- 🚀 Building Scalable Web Applications
+- ⚙️ Backend Development
+- 🔥 REST API Development
+- 🗄️ Database Design
+- 📚 Learning New Technologies
+
+---
+
+# ☕ Fun Facts
+
+- 🚀 I love turning coffee into clean code.
+- 🌙 I enjoy coding late at night when everything is quiet.
+- 💡 I believe every bug is an opportunity to learn.
+- 📚 I spend my free time learning backend technologies.
+- ⚡ I'm always exploring better ways to write clean and maintainable code.
+
+---
+
 ## 🛠 Tech Stack
 
 ### Languages
