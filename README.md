@@ -34,10 +34,10 @@ I'm an enthusiastic **Full-Stack Developer** with a strong foundation in fronten
 HTML5 • CSS3 • React • Next.js • Tailwind CSS • Bootstrap • Redux Toolkit • Material UI • Shadcn/UI • Framer Motion
 
 ### Backend
-Node.js • Express.js • Prisma ORM • JWT • REST API • Socket.io • Passport.js • Bcrypt • Redis • GraphQL
+Node.js • Express.js • Prisma ORM • JWT • REST API • Socket.io • Passport.js • Bcrypt  • GraphQL
 
 ### Database
-PostgreSQL • MongoDB • MySQL
+PostgreSQL • MongoDB • MySQL • Redis
 
 ### Tools
 Git • GitHub • Docker • Linux • VS Code • Postman • npm • pnpm • AWS • Vercel • Netlify • Render • Firebase • Figma
